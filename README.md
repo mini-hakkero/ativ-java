@@ -1,4 +1,4 @@
-Atividade realizada em dupla por Rennan Beck e Lucas Danie Gomes
+Atividade realizada em dupla por Rennan Beck e Lucas Daniel Gomes
 
 
 01-A programação orientada a objetos é um paradigma de programação que se baseia na ideia de criar objetos
